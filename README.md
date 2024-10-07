@@ -52,3 +52,19 @@
 - **팀 프로젝트**: 실제 문제를 해결하는 웹 애플리케이션 또는 모바일 앱 개발
 - **배포 및 유지보수**: CI/CD, AWS, Docker 등을 활용한 배포
 - **코드 최적화와 테스트**: JUnit을 활용한 단위 테스트, 코드 리팩토링
+
+
+### 부록. **Scanner**
+
+- in.nextByte()		// byte 형 입력 및 리턴
+- in.nextShort()		// short 형 입력 및 리턴
+- in.nextInt()		// int 형 입력 및 리턴
+- in.nextLong()		// long 형 입력 및 리턴
+
+- in.nextFloat()		// float 형 입력 및 리턴
+- in.nextDouble()		// double 형 입력 및 리턴
+
+- in.nextBoolean()	// boolean 형 입력 및 리턴
+
+- in.next()			// String 형 입력 및 리턴	(공백을 기준으로 한 단어를 읽음)
+- in.nextLine()		// String 형 입력 및 리턴 (개행을 기준으로 한 줄을 읽음)
